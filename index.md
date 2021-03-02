@@ -1,9 +1,10 @@
 ## ![](https://s1.ephoto360.com/images/user_image/2021/03/603e822a51b1b.jpg)
 
 
-![main](/yt1s.com - Moaning Earrape.mp3)
+var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
+audio.play()
 
-![](file:///C:/Users/chase/Downloads/yt1s.com%20-%20Moaning%20Earrape.mp3)
+
 
 ![](https://media.discordapp.net/attachments/786277053501800559/813798956437995520/unknown.png)
 
