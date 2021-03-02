@@ -2,6 +2,13 @@
 
 
 
+<audio controls autoplay>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
 ![](https://github.com/chasequijano/Joe-Mama/blob/main/yt1s.com%20-%20Moaning%20Earrape.mp3)
 
 
