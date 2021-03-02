@@ -1,7 +1,7 @@
 ## ![](https://s1.ephoto360.com/images/user_image/2021/03/603e822a51b1b.jpg)
 
 
-var audio = new Audio("https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/Audio.mp3")
+var audio = new Audio("https://github.com/chasequijano/Joe-Mama/blob/main/yt1s.com%20-%20Moaning%20Earrape.mp3")
 audio.play()
 
 
